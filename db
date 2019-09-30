@@ -1,0 +1,31 @@
+{
+  "admin": [
+    {
+      "id": 0,
+      "name": "Anu",
+      "password": "0000"
+    },
+    {
+      "id": 1,
+      "name": "Bayalagmaa",
+      "password": "1111"
+    }
+  ],
+  "moderator": [
+    {
+      "id": 0,
+      "name": "Nambarjin",
+      "password": "2222"
+    },
+    {
+      "id": 1,
+      "name": "Tugsbayasgalan",
+      "password": "3333"
+    },
+    {
+      "id": 2,
+      "name": "Misheel",
+      "password": "4444"
+    }
+  ]
+}
