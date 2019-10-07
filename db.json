@@ -3,49 +3,58 @@
     {
       "id": 0,
       "name": "Anu",
-      "password": "0000"
+      "password": "0000",
+      "status" : "admin"
     },
     {
       "id": 1,
       "name": "Bayalagmaa",
-      "password": "1111"
+      "password": "1111",
+      "status" : "admin"
     }
   ],
   "moderator": [
     {
       "id": 0,
       "name": "Nambarjin",
-      "password": "2222"
+      "password": "2222",
+      "status" : "moderator"
     },
     {
       "id": 1,
       "name": "Tugsbayasgalan",
-      "password": "3333"
+      "password": "3333",
+      "status" : "moderator"
     },
     {
       "id": 2,
       "name": "Misheel",
-      "password": "4444"
+      "password": "4444",
+      "status" : "moderator"
     },
     {
       "id": 3,
       "name": "Tselmeg",
-      "password": "5555"
+      "password": "5555",
+      "status" : "moderator"
     },
     {
       "id": 4,
       "name": "Tulgaa",
-      "password": "6666"
+      "password": "6666",
+      "status" : "moderator"
     },
     {
       "id": 5,
       "name": "Bambu",
-      "password": "7777"
+      "password": "7777",
+      "status" : "moderator"
     },
     {
       "id": 6,
       "name": "Ayduk",
-      "password": "8888"
+      "password": "8888",
+      "status" : "moderator"
     }
   ]
 }
