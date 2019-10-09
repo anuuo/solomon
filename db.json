@@ -27,7 +27,7 @@
     {
      "email" : "blabla",
       "firstName": "Tugsbayasgalan",
-      "lastName" : "",
+      "lastName" : "blabla",
       "userName" : "tugsuu",
       "role" : "moderator",
       "password": "3333"
@@ -42,8 +42,8 @@
     },
     {
       "email" : "blabla",
-      "firstName": " ",
-      "lastName" : " ",
+      "firstName": "blabla",
+      "lastName" : "blabla",
       "userName" : "tulgaa",
       "role" : "moderator",
       "password": "5555"
