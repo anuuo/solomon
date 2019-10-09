@@ -1,60 +1,60 @@
 {
   "admin": [
     {
-      "id": 0,
-      "name": "Anu",
+       "email" : "anu.3otgonjargal@gmail.com",
+      "firstName": "Anu",
+      "lastName" : "Otgonjargal",
+      "userName" : "anuuo",
+      "role" : "admin",
       "password": "0000",
-      "status" : "admin"
+      "favorite" : ' '
     },
     {
-      "id": 1,
-      "name": "Bayalagmaa",
+     "email" : "bayalagmaanest@gmail.com",
+      "firstName": "Bayalagmaa",
+      "lastName" : "Sofia",
+      "userName" : "sofia",
+      "role" : "admin",
       "password": "1111",
-      "status" : "admin"
+      "favorite" : ' '
     }
   ],
   "moderator": [
     {
-      "id": 0,
-      "name": "Nambarjin",
+     "email" : "nambarjin@gmail.com",
+      "firstName": "Nambarjin",
+      "lastName" : "Tumenbayar",
+      "userName" : "lambo",
+      "role" : " moderator",
       "password": "2222",
-      "status" : "moderator"
+      "favorite" : ' '
     },
     {
-      "id": 1,
-      "name": "Tugsbayasgalan",
+     "email" : " ",
+      "firstName": "Tugsbayasgalan",
+      "lastName" : "",
+      "userName" : "tugsuu",
+      "role" : "moderator",
       "password": "3333",
-      "status" : "moderator"
+      "favorite" : ' ' 
     },
     {
-      "id": 2,
-      "name": "Misheel",
+      "email" : " ",
+      "firstName": "Misheel",
+      "lastName" : "Chingun",
+      "userName" : "misheel",
+      "role" : "moderator",
       "password": "4444",
-      "status" : "moderator"
+      "favorite" : ' ' 
     },
     {
-      "id": 3,
-      "name": "Tselmeg",
+      "email" : " ",
+      "firstName": " ",
+      "lastName" : " ",
+      "userName" : "tulgaa",
+      "role" : "moderator",
       "password": "5555",
-      "status" : "moderator"
-    },
-    {
-      "id": 4,
-      "name": "Tulgaa",
-      "password": "6666",
-      "status" : "moderator"
-    },
-    {
-      "id": 5,
-      "name": "Bambu",
-      "password": "7777",
-      "status" : "moderator"
-    },
-    {
-      "id": 6,
-      "name": "Ayduk",
-      "password": "8888",
-      "status" : "moderator"
+      "favorite" : ' ' 
     }
   ]
 }
