@@ -6,8 +6,7 @@
       "lastName" : "Otgonjargal",
       "userName" : "anuuo",
       "role" : "admin",
-      "password": "0000",
-      "favorite" : ' '
+      "password": "0000"
     },
     {
      "email" : "bayalagmaanest@gmail.com",
@@ -15,8 +14,7 @@
       "lastName" : "Sofia",
       "userName" : "sofia",
       "role" : "admin",
-      "password": "1111",
-      "favorite" : ' '
+      "password": "1111"
     }
   ],
   "moderator": [
@@ -26,8 +24,7 @@
       "lastName" : "Tumenbayar",
       "userName" : "lambo",
       "role" : " moderator",
-      "password": "2222",
-      "favorite" : ' '
+      "password": "2222"
     },
     {
      "email" : " ",
@@ -35,8 +32,7 @@
       "lastName" : "",
       "userName" : "tugsuu",
       "role" : "moderator",
-      "password": "3333",
-      "favorite" : ' ' 
+      "password": "3333"
     },
     {
       "email" : " ",
@@ -44,8 +40,7 @@
       "lastName" : "Chingun",
       "userName" : "misheel",
       "role" : "moderator",
-      "password": "4444",
-      "favorite" : ' ' 
+      "password": "4444"
     },
     {
       "email" : " ",
@@ -53,8 +48,7 @@
       "lastName" : " ",
       "userName" : "tulgaa",
       "role" : "moderator",
-      "password": "5555",
-      "favorite" : ' ' 
+      "password": "5555"
     }
   ]
 }
