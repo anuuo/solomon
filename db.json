@@ -1,7 +1,7 @@
 {
   "users": [
     {
-       "email" : "anu.3otgonjargal@gmail.com",
+      "email" : "anu.3otgonjargal@gmail.com",
       "firstName": "Anu",
       "lastName" : "Otgonjargal",
       "userName" : "anuuo",
@@ -47,54 +47,6 @@
       "userName" : "tulgaa",
       "role" : "moderator",
       "password": "5555"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
-    },
-    {
-     "email" : "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName" : "Sofia",
-      "userName" : "sofia",
-      "role" : "admin",
-      "password": "1111"
     },
     {
      "email" : "bayalagmaanest@gmail.com",
